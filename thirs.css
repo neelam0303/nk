@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.letter {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    margin-top: 0;
+    color: #e91e63;
+}
+
+.header p {
+    margin-bottom: 20px;
+}
+
+.content {
+    line-height: 1.6;
+}
+
+.content p:last-child {
+    margin-top: 20px;
+}
+.click{
+    text-align: center;
+}
